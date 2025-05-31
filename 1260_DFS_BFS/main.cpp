@@ -3,7 +3,7 @@
 #include <queue>
 using namespace std;
 
-void bfs(int start);
+void dfs(int start);
 void bfs();
 queue<int> q;
 bool map[1001][1001] = { false };
@@ -25,14 +25,14 @@ int main()
 		map[u][v] = true;
 	}
 
-	bfs(start);
+	dfs(start);
 	cout << endl;
 
 	q.push(start);
 	bfs();
 }
 
-void bfs(int start)
+void dfs(int start)
 {
 	if (dfs_visited[start]) return;
 
@@ -42,7 +42,7 @@ void bfs(int start)
 
 	for (int i = 1; i <= N; ++i)
 		if (map[start][i] && dfs_visited[i] == false)
-			bfs(i);
+			dfs(i);
 }
 
 void bfs()
