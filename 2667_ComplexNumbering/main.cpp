@@ -13,7 +13,7 @@ int adj_dir_col[] = { 0, 1, 0, -1 };
 void answer();
 void dfs(int row, int col);
 
-int pot_count = 0;
+int house_count = 0;
 
 int main()
 {
@@ -45,8 +45,8 @@ void answer()
 			if (map[i][j] && visited[i][j] == false)
 			{
 				dfs(i, j);
-				pq.push(pot_count);
-				pot_count = 0;
+				pq.push(house_count);
+				house_count = 0;
 			}
 		}
 	}
@@ -56,7 +56,7 @@ void dfs(int row, int col)
 {
 	if (visited[row][col]) return;
 
-	++pot_count;
+	++house_count;
 
 	visited[row][col] = true;
 
