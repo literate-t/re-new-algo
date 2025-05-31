@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2178_MazeExploration", "217
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1260_DFSAndBFS", "1260_DFS_BFS\1260_DFSAndBFS.vcxproj", "{B4F98C96-9226-4660-B255-30E501F18CC5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2606_Virus", "2606_Virus\2606_Virus.vcxproj", "{70A205E3-325B-475D-ABF7-2B7A5B043BBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{B4F98C96-9226-4660-B255-30E501F18CC5}.Release|x64.Build.0 = Release|x64
 		{B4F98C96-9226-4660-B255-30E501F18CC5}.Release|x86.ActiveCfg = Release|Win32
 		{B4F98C96-9226-4660-B255-30E501F18CC5}.Release|x86.Build.0 = Release|Win32
+		{70A205E3-325B-475D-ABF7-2B7A5B043BBC}.Debug|x64.ActiveCfg = Debug|x64
+		{70A205E3-325B-475D-ABF7-2B7A5B043BBC}.Debug|x64.Build.0 = Debug|x64
+		{70A205E3-325B-475D-ABF7-2B7A5B043BBC}.Debug|x86.ActiveCfg = Debug|Win32
+		{70A205E3-325B-475D-ABF7-2B7A5B043BBC}.Debug|x86.Build.0 = Debug|Win32
+		{70A205E3-325B-475D-ABF7-2B7A5B043BBC}.Release|x64.ActiveCfg = Release|x64
+		{70A205E3-325B-475D-ABF7-2B7A5B043BBC}.Release|x64.Build.0 = Release|x64
+		{70A205E3-325B-475D-ABF7-2B7A5B043BBC}.Release|x86.ActiveCfg = Release|Win32
+		{70A205E3-325B-475D-ABF7-2B7A5B043BBC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
