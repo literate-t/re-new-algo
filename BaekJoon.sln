@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2667_ComplexNumbering", "26
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2644_DegreeOfKinship", "2644_DegreeOfKinship\2644_DegreeOfKinship.vcxproj", "{509742AB-9807-41A0-886B-DD141AC165F2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7569_Tomato", "7569_Tomato\7569_Tomato.vcxproj", "{3C1E2250-EF43-43DD-A322-1F5CE8AD0635}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{509742AB-9807-41A0-886B-DD141AC165F2}.Release|x64.Build.0 = Release|x64
 		{509742AB-9807-41A0-886B-DD141AC165F2}.Release|x86.ActiveCfg = Release|Win32
 		{509742AB-9807-41A0-886B-DD141AC165F2}.Release|x86.Build.0 = Release|Win32
+		{3C1E2250-EF43-43DD-A322-1F5CE8AD0635}.Debug|x64.ActiveCfg = Debug|x64
+		{3C1E2250-EF43-43DD-A322-1F5CE8AD0635}.Debug|x64.Build.0 = Debug|x64
+		{3C1E2250-EF43-43DD-A322-1F5CE8AD0635}.Debug|x86.ActiveCfg = Debug|Win32
+		{3C1E2250-EF43-43DD-A322-1F5CE8AD0635}.Debug|x86.Build.0 = Debug|Win32
+		{3C1E2250-EF43-43DD-A322-1F5CE8AD0635}.Release|x64.ActiveCfg = Release|x64
+		{3C1E2250-EF43-43DD-A322-1F5CE8AD0635}.Release|x64.Build.0 = Release|x64
+		{3C1E2250-EF43-43DD-A322-1F5CE8AD0635}.Release|x86.ActiveCfg = Release|Win32
+		{3C1E2250-EF43-43DD-A322-1F5CE8AD0635}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
