@@ -22,7 +22,7 @@
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{94dfa935-95ad-4ef0-89fa-4a44e24c2805}</ProjectGuid>
-    <RootNamespace>My5041StartLink</RootNamespace>
+    <RootNamespace>My5014StartLink</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>5014_StartLink</ProjectName>
   </PropertyGroup>
