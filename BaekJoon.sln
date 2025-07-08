@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2573_Iceberg", "2573_Iceber
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9205_WalkWithBeer", "9205_WalkWithBeer\9205_WalkWithBeer.vcxproj", "{04ADC47F-435F-4AE7-B320-66E0240DE832}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14503_RobotCleaner", "14503_RobotCleaner\14503_RobotCleaner.vcxproj", "{F529DF0A-D793-44A9-9F80-5DC6FB4C9861}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{04ADC47F-435F-4AE7-B320-66E0240DE832}.Release|x64.Build.0 = Release|x64
 		{04ADC47F-435F-4AE7-B320-66E0240DE832}.Release|x86.ActiveCfg = Release|Win32
 		{04ADC47F-435F-4AE7-B320-66E0240DE832}.Release|x86.Build.0 = Release|Win32
+		{F529DF0A-D793-44A9-9F80-5DC6FB4C9861}.Debug|x64.ActiveCfg = Debug|x64
+		{F529DF0A-D793-44A9-9F80-5DC6FB4C9861}.Debug|x64.Build.0 = Debug|x64
+		{F529DF0A-D793-44A9-9F80-5DC6FB4C9861}.Debug|x86.ActiveCfg = Debug|Win32
+		{F529DF0A-D793-44A9-9F80-5DC6FB4C9861}.Debug|x86.Build.0 = Debug|Win32
+		{F529DF0A-D793-44A9-9F80-5DC6FB4C9861}.Release|x64.ActiveCfg = Release|x64
+		{F529DF0A-D793-44A9-9F80-5DC6FB4C9861}.Release|x64.Build.0 = Release|x64
+		{F529DF0A-D793-44A9-9F80-5DC6FB4C9861}.Release|x86.ActiveCfg = Release|Win32
+		{F529DF0A-D793-44A9-9F80-5DC6FB4C9861}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
