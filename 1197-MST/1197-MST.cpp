@@ -73,6 +73,9 @@ private:
 
 int main()
 {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
     int V, E;
     cin >> V >> E;
     UnionFind uf(V);
