@@ -25,7 +25,7 @@ int main()
 		nodes[e][s] = true;
 	}
 	dfs(V);
-	cout << endl;
+	cout << "\n";
 	memset(visited, 0, sizeof visited);
 	bfs(V);
 }
