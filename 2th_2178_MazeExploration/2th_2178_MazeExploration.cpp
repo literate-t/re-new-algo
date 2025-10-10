@@ -32,8 +32,8 @@ int main()
 
 	while (!q.empty())
 	{
-		auto& [position, c] = q.front();
-		auto& [w, h] = position;
+		auto [position, c] = q.front();
+		auto [w, h] = position;
 		q.pop();
 
 		if (w == N && h == M)
