@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2293_Coin1", "2293_Coin1\22
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2th_1260_DFSAndBFS", "2th_1260_DFSAndBFS\2th_1260_DFSAndBFS.vcxproj", "{C9346999-241E-47F1-9BB9-351CE38C700C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2th_2178_MazeExploration", "2th_2178_MazeExploration\2th_2178_MazeExploration.vcxproj", "{F74A4EA3-A24C-46F2-920B-B46805CF5418}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{C9346999-241E-47F1-9BB9-351CE38C700C}.Release|x64.Build.0 = Release|x64
 		{C9346999-241E-47F1-9BB9-351CE38C700C}.Release|x86.ActiveCfg = Release|Win32
 		{C9346999-241E-47F1-9BB9-351CE38C700C}.Release|x86.Build.0 = Release|Win32
+		{F74A4EA3-A24C-46F2-920B-B46805CF5418}.Debug|x64.ActiveCfg = Debug|x64
+		{F74A4EA3-A24C-46F2-920B-B46805CF5418}.Debug|x64.Build.0 = Debug|x64
+		{F74A4EA3-A24C-46F2-920B-B46805CF5418}.Debug|x86.ActiveCfg = Debug|Win32
+		{F74A4EA3-A24C-46F2-920B-B46805CF5418}.Debug|x86.Build.0 = Debug|Win32
+		{F74A4EA3-A24C-46F2-920B-B46805CF5418}.Release|x64.ActiveCfg = Release|x64
+		{F74A4EA3-A24C-46F2-920B-B46805CF5418}.Release|x64.Build.0 = Release|x64
+		{F74A4EA3-A24C-46F2-920B-B46805CF5418}.Release|x86.ActiveCfg = Release|Win32
+		{F74A4EA3-A24C-46F2-920B-B46805CF5418}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
