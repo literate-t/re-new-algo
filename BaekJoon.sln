@@ -53,6 +53,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1003_Fibocacci", "1003_Fibo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11726_2xNTiling", "11726_2xNTiling\11726_2xNTiling.vcxproj", "{FDE05EC0-7BE5-4480-81A7-E9882E9D2CFD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2579_Stepping", "2579_Stepping\2579_Stepping.vcxproj", "{74119B1F-0B1F-44D5-ADBF-A6D2C8A8EC86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -261,6 +263,14 @@ Global
 		{FDE05EC0-7BE5-4480-81A7-E9882E9D2CFD}.Release|x64.Build.0 = Release|x64
 		{FDE05EC0-7BE5-4480-81A7-E9882E9D2CFD}.Release|x86.ActiveCfg = Release|Win32
 		{FDE05EC0-7BE5-4480-81A7-E9882E9D2CFD}.Release|x86.Build.0 = Release|Win32
+		{74119B1F-0B1F-44D5-ADBF-A6D2C8A8EC86}.Debug|x64.ActiveCfg = Debug|x64
+		{74119B1F-0B1F-44D5-ADBF-A6D2C8A8EC86}.Debug|x64.Build.0 = Debug|x64
+		{74119B1F-0B1F-44D5-ADBF-A6D2C8A8EC86}.Debug|x86.ActiveCfg = Debug|Win32
+		{74119B1F-0B1F-44D5-ADBF-A6D2C8A8EC86}.Debug|x86.Build.0 = Debug|Win32
+		{74119B1F-0B1F-44D5-ADBF-A6D2C8A8EC86}.Release|x64.ActiveCfg = Release|x64
+		{74119B1F-0B1F-44D5-ADBF-A6D2C8A8EC86}.Release|x64.Build.0 = Release|x64
+		{74119B1F-0B1F-44D5-ADBF-A6D2C8A8EC86}.Release|x86.ActiveCfg = Release|Win32
+		{74119B1F-0B1F-44D5-ADBF-A6D2C8A8EC86}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
