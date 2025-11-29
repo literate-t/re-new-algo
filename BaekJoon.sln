@@ -57,6 +57,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2579_Stepping", "2579_Stepp
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1149_RGBDistance", "1149_RGBDistance\1149_RGBDistance.vcxproj", "{C9A3C891-9F51-444C-9A98-CBAF8995CD90}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1012_OrganicKimchCabbage", "1012_OrganicKimchCabbage\1012_OrganicKimchCabbage.vcxproj", "{0FA3E33E-A1B3-4FB5-9F77-FE068E6CE7A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -281,6 +283,14 @@ Global
 		{C9A3C891-9F51-444C-9A98-CBAF8995CD90}.Release|x64.Build.0 = Release|x64
 		{C9A3C891-9F51-444C-9A98-CBAF8995CD90}.Release|x86.ActiveCfg = Release|Win32
 		{C9A3C891-9F51-444C-9A98-CBAF8995CD90}.Release|x86.Build.0 = Release|Win32
+		{0FA3E33E-A1B3-4FB5-9F77-FE068E6CE7A6}.Debug|x64.ActiveCfg = Debug|x64
+		{0FA3E33E-A1B3-4FB5-9F77-FE068E6CE7A6}.Debug|x64.Build.0 = Debug|x64
+		{0FA3E33E-A1B3-4FB5-9F77-FE068E6CE7A6}.Debug|x86.ActiveCfg = Debug|Win32
+		{0FA3E33E-A1B3-4FB5-9F77-FE068E6CE7A6}.Debug|x86.Build.0 = Debug|Win32
+		{0FA3E33E-A1B3-4FB5-9F77-FE068E6CE7A6}.Release|x64.ActiveCfg = Release|x64
+		{0FA3E33E-A1B3-4FB5-9F77-FE068E6CE7A6}.Release|x64.Build.0 = Release|x64
+		{0FA3E33E-A1B3-4FB5-9F77-FE068E6CE7A6}.Release|x86.ActiveCfg = Release|Win32
+		{0FA3E33E-A1B3-4FB5-9F77-FE068E6CE7A6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
